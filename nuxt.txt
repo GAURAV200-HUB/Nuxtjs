@@ -1,0 +1,15 @@
+What is a Nuxt.js
+-- Framework that offers server side rendering for Vue applications (Similar to Nuxt js for React)
+-- Main Advantages:-
+    1) Universal App / Server Side rendering
+    2) SEO optimization
+    3) Control head, title, meta, etc.,
+    4) Simple Page Routing
+
+-- Other Features of Nuxt
+    1) Bundled with vue-router, Vuex,vue-meta and more
+    2) Choice of Universal or SPA
+    3) Choice to include Express or ther backend Framework
+    4) Choice to include Bootstra or Outher UI Framework.
+    5) Automatic code-splitting, Babel transpile, Sass integration
+    6) Easy build "nuxt generate" creates dist folder for deployment
